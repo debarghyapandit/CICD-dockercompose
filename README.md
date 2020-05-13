@@ -1,2 +1,2 @@
 # CICD-dockercompose
-This is a demo project for creating a CICD for Docker-compose
+This is a demo project for Docker-compose for applications and using postgres as db
